@@ -7,9 +7,7 @@ This repository is a collection of the software development projects that I've c
 
 1. **IOT bulbs and switche managing app** - an IoT-based Bulb and Switch Management Application, a project that achieved a high assessment score of 75%. In this project, I was programming in Python, using the Home Assistant platform, ZigBee protocols, and Wi-Fi routing
 
-2. **Project 2 Name** - Description...
 
-3. **Project 3 Name** - Description...
 
 ## Contact Information
 
