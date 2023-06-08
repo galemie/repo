@@ -5,28 +5,11 @@ This repository is a collection of the software development projects that I've c
 
 ## Projects
 
-1. **Project 1 Name** - Brief description of the project, technologies used, and perhaps a link to a live demo if available.
+1. **IOT bulbs and switche managing app** - an IoT-based Bulb and Switch Management Application, a project that achieved a high assessment score of 75%. In this project, I was programming in Python, using the Home Assistant platform, ZigBee protocols, and Wi-Fi routing
 
 2. **Project 2 Name** - Description...
 
 3. **Project 3 Name** - Description...
-
-(Continue for all projects)
-
-## Skills Demonstrated
-
-* Skill 1 (E.g., Python programming)
-* Skill 2 (E.g., Problem-solving)
-* Skill 3 (E.g., Building web applications with WordPress)
-* ...
-
-## Getting Started
-
-If you want to view the code for any of these projects:
-
-1. Clone the repository: `git clone https://github.com/username/reponame.git`
-2. Navigate into the project directory: `cd reponame`
-3. Open the project in your preferred IDE or code editor.
 
 ## Contact Information
 
